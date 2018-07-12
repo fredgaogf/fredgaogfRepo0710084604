@@ -1,4 +1,4 @@
 # [Home](index.md)
 ## [Test Files for CATS](index.md)
-### [Alert](Alert-cases/Index.md)
-#### [Alert-Common](Alert-cases/Alert_Common.md)
+### [Alert](Test/Index.md)
+#### [Alert-Common](Test/Alert_Common.md)
