@@ -1,5 +1,3 @@
-
-
 ## Alert with Link(Nest)
 
 > [!NOTE] 
